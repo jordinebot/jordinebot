@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🙋‍♂️ My name is Jordi.
-- 😄 He / Him / His
+- 🙋‍♂️ My name is Jordi (he/him).
 - 🌍 I'm based near Barcelona.
 - 🔭 I’m currently working at [King](https://www.king.com/) as a Frontend Engineer.
 - 🌱 I’m learning React, TypeScript...
