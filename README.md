@@ -3,8 +3,8 @@
 - 🙋‍♂️ My name is Jordi (he/him).
 - 🌍 I'm based near Barcelona.
 - 🔭 I’m working at [King](https://www.king.com/) as a Frontend Engineer.
-- 🛠️ My current tech-stack is React + Typescript + Ant Design + Vite
-- 🧪 I test using Playwright + MSW and Vitest + React Testing Library
+- 🛠️ My current tech-stack is [React](https://react.dev/) + [Typescript](https://www.typescriptlang.org/) + [Ant Design](https://ant.design/) + [Vite](https://vite.dev/)
+- 🧪 I test using [Playwright](https://playwright.dev/) + [MSW](https://mswjs.io/) and [Vitest](https://vitest.dev/) + [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - 💬 [Ask me about Loom™](https://www.thegamer.com/monkey-island-ask-me-about-loom-joke-explained-cobb-cob-loom/)
 - 📫 E-mail me at `hola at jordinebot .cat`, if you want to contact me.
 - 📝 Find my personal website/blog at [jordinebot.me](http://www.jordinebot.me)
